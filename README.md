@@ -2,7 +2,6 @@
 - 🌱 Languages: HTML, CSS, PHP, JavaScript, C++
 - 🖥️ Text Editor: <a href="https://atom.io/">Atom</a>
 - ⌨️ Font: <a href="https://www.jetbrains.com/lp/mono/">JetBrains Mono</a>
-- 📫 <a href="https://twitter.com/anndotsocial">Contact Me</a>
 
 
 
